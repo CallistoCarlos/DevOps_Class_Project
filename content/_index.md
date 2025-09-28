@@ -1,2 +1,2 @@
-# Start DevOps journey now
+# start DevOps journey now
 
